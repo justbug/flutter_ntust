@@ -9,5 +9,3 @@
 ## Flutter 基礎 （⼗⼆週）：
 #### udemy - Learn Flutter & Dart to Build iOS & Android Apps
 1. 第⼀週 (8/5): flutter basic quiz app
-
-## 開發期 （11⽉中～⽉底）
