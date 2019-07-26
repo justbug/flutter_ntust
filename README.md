@@ -3,10 +3,11 @@
 
 ## Dart 學習 （三週）:
 1. 第⼀週 (7/16): basic Dart, Variables, Built-in types
-2. (7/24): Functions
-2. 第⼆週 (7/26): Operators, Control flow statements, Exceptions
+2. 第⼆週 (7/24): Functions
+
+   第⼆週 (7/26): Operators, Control flow statements, Exceptions
 3. 第三週 (7/29): Classes, Generics, Asynchrony (Future, Stream)
 
 ## Flutter 基礎 （⼗⼆週）：
 #### udemy - Learn Flutter & Dart to Build iOS & Android Apps
-1. 第⼀週 (8/5): flutter basic quiz app (1 ~ 34)sss
+1. 第⼀週 (8/5): flutter basic quiz app (1 ~ 34)
