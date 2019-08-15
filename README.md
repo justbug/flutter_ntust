@@ -1,5 +1,5 @@
 # Flutter 學習進度
-#### 每週學習 1 ~ 1.5 Hr，兩週⼀次⼩作業 or 研究某主題 or Pair-Programming 
+#### 每週學習 1 ~ 1.5 小時，兩週⼀次⼩作業 or 研究某主題 or Pair-Programming 
 
 ## Dart 學習 （三週）:
 1. 第⼀週 (7/16): basic Dart, Variables, Built-in types
