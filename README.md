@@ -7,6 +7,7 @@
 
    第⼆週 (7/26): Operators, Control flow statements, Exceptions
 3. 第三週 (8/7):  Classes
+
    第三週 (8/15): Enum, Mixin
 
 ## Flutter 基礎 （⼗⼆週）：
