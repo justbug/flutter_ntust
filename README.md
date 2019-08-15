@@ -6,8 +6,9 @@
 2. 第⼆週 (7/24): Functions
 
    第⼆週 (7/26): Operators, Control flow statements, Exceptions
-3. 第三週 (8/7): Classes
+3. 第三週 (8/7):  Classes
+   第三週 (8/15): Enum, Mixin
 
 ## Flutter 基礎 （⼗⼆週）：
 #### udemy - Learn Flutter & Dart to Build iOS & Android Apps
-1. 第⼀週 (TBD): flutter basic quiz app (1 ~ 34)
+1. 第⼀週 (8/21): flutter basic quiz app
