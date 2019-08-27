@@ -12,6 +12,9 @@
 
 ## Flutter 基礎 （⼗⼆週）：
 #### udemy - Learn Flutter & Dart to Build iOS & Android Apps
-1. 第⼀週 (8/21): flutter basic quiz app
-2. 第二週 (9/5): Running Apps on Different Devices and Debugging & Apps Widgets, Styling, Adding Logic - Building a Real
+1. 第⼀週 (8/19): flutter basic quiz app
+2. 第二週 (9/2): Running Apps on Different Devices and Debugging & Apps Widgets, Styling, Adding Logic - Building a Real
 App
+3. 第三週（9/16): Responsive & Adaptive User Interfaces and Apps & Widget & Flutter Internals - Deep Dive (134 ~ 測驗 12)
+4. 第四週（9/23): Flutter Internals - Deep Dive & Navigation (完成) & Multiple Screens [MEALS APP] (152 ~ 測驗 14)
+5. 第五週（9/30): Navigation & Multiple Screens [MEALS APP] (161 ~ 測驗 16)
