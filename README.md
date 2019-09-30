@@ -12,23 +12,26 @@
 
 ## Flutter 基礎：
 #### udemy - Learn Flutter & Dart to Build iOS & Android Apps
-1. (8/19): flutter basic quiz app
+1. (8/19): flutter basic quiz app  
+
 2. (9/2): Running Apps on Different Devices and Debugging & Apps Widgets, Styling, Adding Logic - Building a Real
-App
-3.（9/16): Apps Widgets, Styling, Adding Logic - Building a Real App
-4.（9/23): Responsive & Adaptive User Interfaces and Apps & Widget & Flutter Internals - Deep Dive (134 ~ 測驗 12)
+App  
 
-5.（9/30): Flutter Internals - Deep Dive & Navigation (完成) & Multiple Screens [MEALS APP] (152 ~ 測驗 14)
+3.（9/16): Apps Widgets, Styling, Adding Logic - Building a Real App  
 
-6.（10/7): Navigation & Multiple Screens [MEALS APP] (161 ~ 測驗 16)
+4.（9/23): Responsive & Adaptive User Interfaces and Apps & Widget & Flutter Internals - Deep Dive (134 ~ 測驗 12)  
 
-7.（10/14): Navigation & Multiple Screens [MEALS APP] & State Management [SHOP APP] (173 ~ 186)
+5.（9/30): Flutter Internals - Deep Dive & Navigation (完成) & Multiple Screens [MEALS APP] (152 ~ 測驗 14)  
 
-8.（10/21): State Management [SHOP APP] (187 ~ 測驗 19)
+6.（10/7): Navigation & Multiple Screens [MEALS APP] (161 ~ 測驗 16)  
 
-9.（10/28): State Management [SHOP APP] (187 ~ 測驗 19)
+7.（10/14): Navigation & Multiple Screens [MEALS APP] & State Management [SHOP APP] (173 ~ 186)  
 
-10.（11/4): State Management [SHOP APP] (198 ~ 210)
+8.（10/21): State Management [SHOP APP] (187 ~ 測驗 19)  
+
+9.（10/28): State Management [SHOP APP] (187 ~ 測驗 19)  
+
+10.（11/4): State Management [SHOP APP] (198 ~ 210)  
 
 11.（11/11): Working with User Input & Forms [SHOP APP]
 
