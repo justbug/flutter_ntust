@@ -11,7 +11,7 @@
    第三週 (8/15): Enum, Mixin
 
 ## Flutter 基礎：
-#### udemy - Learn Flutter & Dart to Build iOS & Android Apps
+#### udemy - Learn Flutter & Dart to Build iOS & Android Apps  
 
 1. (8/19): flutter basic quiz app  
 
