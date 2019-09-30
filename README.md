@@ -15,9 +15,7 @@
 1. (8/19): flutter basic quiz app
 2. (9/2): Running Apps on Different Devices and Debugging & Apps Widgets, Styling, Adding Logic - Building a Real
 App
-
 3.（9/16): Apps Widgets, Styling, Adding Logic - Building a Real App
-
 4.（9/23): Responsive & Adaptive User Interfaces and Apps & Widget & Flutter Internals - Deep Dive (134 ~ 測驗 12)
 
 5.（9/30): Flutter Internals - Deep Dive & Navigation (完成) & Multiple Screens [MEALS APP] (152 ~ 測驗 14)
