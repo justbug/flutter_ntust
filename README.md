@@ -12,7 +12,7 @@
 
 ## Flutter 基礎：
 #### udemy - Learn Flutter & Dart to Build iOS & Android Apps
-1. (8/19): flutter basic quiz app
+   1. (8/19): flutter basic quiz app
 
 2. (9/2): Running Apps on Different Devices and Debugging & Apps Widgets, Styling, Adding Logic - Building a Real
 App
