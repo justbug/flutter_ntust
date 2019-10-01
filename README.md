@@ -28,27 +28,25 @@ App
 
 7. (10/14): Navigation & Multiple Screens [MEALS APP] & State Management [SHOP APP] (173 ~ 186)  
 
-8. (10/21): State Management [SHOP APP] (187 ~ 測驗 19)  
+9. (10/21): State Management [SHOP APP] (187 ~ 測驗 19)  
 
-9. (10/28): State Management [SHOP APP] (187 ~ 測驗 19)  
+10. (10/28): State Management [SHOP APP] (198 ~ 210)  
 
-10. (11/4): State Management [SHOP APP] (198 ~ 210)  
+11. (11/4): Working with User Input & Forms [SHOP APP]
 
-11. (11/11): Working with User Input & Forms [SHOP APP]
+12. (11/11): Sending Http Requests [SHOP APP](230 ~ 247)
 
-12. (11/18): Sending Http Requests [SHOP APP](230 ~ 247)
+13. (11/18): Sending Http Requests [SHOP APP] & Adding User Authentication [SHOP APP] (248 ~ 261)
 
-13. (11/25): Sending Http Requests [SHOP APP] & Adding User Authentication [SHOP APP] (248 ~ 261)
+14. (11/25): Adding User Authentication [SHOP APP] & Adding Animations [SHOP APP] (262 ~ 284)
 
-14. (12/2): Adding User Authentication [SHOP APP] & Adding Animations [SHOP APP] (262 ~ 284)
+15. (12/2): [LEGACY] Working with Lists & Conditionals & [LEGACY] Navigation
 
-15. (12/9): [LEGACY] Working with Lists & Conditionals & [LEGACY] Navigation
+16. (12/9): [LEGACY] Handling User Input & [LEGACY] Working with Forms
 
-16. (12/16): [LEGACY] Handling User Input & [LEGACY] Working with Forms
+18. (12/16): [LEGACY] Models & State Management
 
-18. (12/23): [LEGACY] Models & State Management
+19. (12/23): [LEGACY] Flutter & HTTP
 
-19. (12/30): [LEGACY] Flutter & HTTP
-
-20. (1/6): [LEGACY] Authentication
+20. (12/30): [LEGACY] Authentication
 
